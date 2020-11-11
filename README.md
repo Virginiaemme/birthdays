@@ -16,3 +16,4 @@ Code is taken from the nice [practice Python](https://www.practicepython.org/) w
 Crediti anche alla virgi 
 
 Questa è una modifica di federico 
+Questa invece di Stefano
