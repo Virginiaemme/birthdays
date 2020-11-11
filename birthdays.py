@@ -4,7 +4,8 @@ birthdays = {
     'Ada Lovelace': '12/10/1815',
     'Donald Trump': '06/14/1946',
     'Rowan Atkinson': '01/6/1955', 
-    'Billie Eilish':'18/12/2001'}
+    'Billie Eilish':'18/12/2001',
+    'Cobian':29/10/1999}
 
 def print_birthdays():
     print('Welcome to the birthday dictionary. We know the birthdays of these people:')
